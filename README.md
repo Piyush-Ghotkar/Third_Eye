@@ -7,7 +7,8 @@ According to WHO 39 million peoples are estimated as blinds worldwide. They are 
 <li>Arduino</li> 
 <li> Ultrasonic Sensor (HC-SR04) </li> 
 <li> Buzzer</li> 
-<li> 5mm LED: Red </li> 
+<li> 5mm LED </li> 
+<li>Resistor 300 Ohm </li> 
 <li>Jumper Wires</li> 
   </ul></b>
   
