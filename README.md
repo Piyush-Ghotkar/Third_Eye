@@ -1,1 +1,15 @@
-hello
+<h1>Third Eye for Blind</h1>
+Third eye for blinds is an innovation which helps the blinds people to navigate with speed and confidence by detecting the nearby obstacles using the help of ultrasonic waves and notify them with buzzer sound or vibration. They only need to wear this device as a band or cloth.
+According to WHO 39 million peoples are estimated as blinds worldwide. They are suffering a lot of harder ship in their daily life. The affected ones have been using the traditional white cane for many years which although being effective, still has a lot of disadvantages. Another way is, having a pet animal such as a dog, but it is really expensive. So, the aim of the project is to develop a cheap and more efficient way to help visually impaired to navigate with greater comfort, speed and confidence.
+
+<h2>Components Required:</h2>
+<ul>
+<li>Arduino</li> 
+<li> Ultrasonic Sensor (HC-SR04) </li> 
+<li> Buzzer</li> 
+<li> 5mm LED: Red </li> 
+<li>Jumper Wires</li> 
+  </ul>
+  
+  <h2>Circuit Diagram:</h2>
+  <img src="https://serving.photos.photobox.com/30784176454599e56a87fc7f02315399ee4b996b1d6b79d46eebad6a4a8daa95ae4ab5f2.jpg"></img>
