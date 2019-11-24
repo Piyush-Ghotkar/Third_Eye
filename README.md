@@ -3,13 +3,13 @@ Third eye for blinds is an innovation which helps the blinds people to navigate 
 According to WHO 39 million peoples are estimated as blinds worldwide. They are suffering a lot of harder ship in their daily life. The affected ones have been using the traditional white cane for many years which although being effective, still has a lot of disadvantages. Another way is, having a pet animal such as a dog, but it is really expensive. So, the aim of the project is to develop a cheap and more efficient way to help visually impaired to navigate with greater comfort, speed and confidence.
 
 <h2>Components Required:</h2>
-<ul>
+<b><ul>
 <li>Arduino</li> 
 <li> Ultrasonic Sensor (HC-SR04) </li> 
 <li> Buzzer</li> 
 <li> 5mm LED: Red </li> 
 <li>Jumper Wires</li> 
-  </ul>
+  </ul></b>
   
   <h2>Circuit Diagram:</h2>
   <img src="https://serving.photos.photobox.com/30784176454599e56a87fc7f02315399ee4b996b1d6b79d46eebad6a4a8daa95ae4ab5f2.jpg"></img>
