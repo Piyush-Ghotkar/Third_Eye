@@ -2,7 +2,6 @@
 
 #include <NewPing.h>
 
-
   const int   pingTrigPin = 12; //Trigger connected to PIN 12   
   const int pingEchoPin = 10; //Echo connected yo PIN 10  
   int buz=5; //Buzzer to PIN 5  
