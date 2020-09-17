@@ -13,7 +13,7 @@ According to WHO 39 million peoples are estimated as blinds worldwide. They are 
   </ul></b>
   
   <h2>Circuit Diagram:</h2>
-  <img src="https://serving.photos.photobox.com/30784176454599e56a87fc7f02315399ee4b996b1d6b79d46eebad6a4a8daa95ae4ab5f2.jpg"></img>
+  <img src="https://i.ibb.co/BtdzF9G/a.jpg"></img>
 
 <p>
  <br><br>
